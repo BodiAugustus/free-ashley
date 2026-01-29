@@ -1,5 +1,6 @@
 // app/components/Section9.tsx  (or e.g. SectionSupportAshley.tsx)
 import Image from "next/image";
+import NewsletterSignup from "../components/NewsletterSignup";
 
 const Section9 = () => {
   return (
@@ -7,10 +8,11 @@ const Section9 = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-5xl py-16 lg:py-10 flex-grow flex flex-col justify-center">
         <div className="space-y-8 lg:space-y-10 text-center">
           {/* Main plea */}
+
+          <NewsletterSignup />
           <h2 className="text-3xl sm:text-4xl  font-bold leading-tight text-red-400">
             Help Free Ashley by joining her fight today!
           </h2>
-
           {/* Book CTA – prominent */}
           <div className="space-y-6">
             <h3 className="text-2xl sm:text-3xl font-semibold text-yellow-400">

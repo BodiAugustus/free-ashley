@@ -11,15 +11,7 @@ export default function Navbar() {
         <ul className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-6">
           <li>
             <Link
-              href="/"
-              className="hover:text-[var(--color-accent)] transition-colors"
-            >
-              Home
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="/story"
+              href="/www.tristannettles.com"
               className="hover:text-[var(--color-accent)] transition-colors"
             >
               The Story
@@ -27,7 +19,7 @@ export default function Navbar() {
           </li>
           <li>
             <Link
-              href="/support"
+              href="/https://www.backabuddy.co.za/campaign/ashley-oosthuizens-fight-for-freedom"
               className="hover:text-[var(--color-accent)] transition-colors"
             >
               Support
