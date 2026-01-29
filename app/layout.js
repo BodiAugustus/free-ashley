@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className="dark">
       <body className="overflow-x-hidden antialiased w-screen">
-        {/* <Navbar /> */}
+        <Navbar />
         {children}
       </body>
     </html>
