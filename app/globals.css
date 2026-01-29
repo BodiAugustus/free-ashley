@@ -5,6 +5,16 @@
   --foreground: #171717;
 }
 
+@theme {
+  /* Custom colors */
+  --color-primary: #1a1a1a; /* Dark gray for backgrounds */
+  --color-accent: #b91c1c; /* Red for urgency/CTA */
+  --color-text-muted: #9ca3af; /* Muted gray for text */
+
+  /* Custom fonts */
+  --font-serif: Georgia, serif; /* For narrative feel */
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
@@ -20,7 +30,22 @@
 }
 
 body {
+  @apply bg-primary text-white font-serif; /* Applies customs */
+}
+
+body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+html,
+body {
+  @apply overflow-x-hidden;
+  /* or plain CSS: overflow-x: hidden; */
+}
+
+/* Optional but recommended: prevent any weird mobile bounce/overscroll */
+html {
+  overscroll-behavior-x: none;
 }
