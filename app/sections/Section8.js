@@ -44,7 +44,7 @@ const Section8 = () => {
             <div className="relative mx-auto lg:mx-0 max-w-md lg:max-w-none">
               <div className="relative w-full aspect-[4/5] sm:aspect-[3/4] overflow-hidden rounded-xl max-w-sm shadow-2xl border border-slate-700/50">
                 <Image
-                  src="/zeb2.jpg"
+                  src="/zeb.jpg"
                   alt="Stephen 'Zeb' Zabielski's body after recovery outside the Russian-held village of Dorashanka, Ukraine"
                   fill
                   className="object-cover"

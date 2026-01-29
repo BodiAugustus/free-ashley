@@ -39,7 +39,7 @@ const Section2 = () => {
             <div className="relative mx-auto lg:mx-0 max-w-md lg:max-w-none">
               <div className="relative w-full aspect-[5/4] overflow-hidden rounded-xl shadow-2xl border border-slate-700/50">
                 <Image
-                  src="/drugsmin.jpg"
+                  src="/drugs.jpg"
                   alt="Party Drugs Being Ordered from NamasteLSD"
                   fill
                   className="object-cover"
