@@ -32,7 +32,7 @@ const Section9 = () => {
               rel="noopener noreferrer"
               className="inline-block px-10 py-5 bg-yellow-500 hover:bg-yellow-400 text-sky-950 font-bold text-2xl rounded-xl shadow-2xl transform hover:scale-105 active:scale-100 transition-all duration-200"
             >
-              Pre-Order Ashley&apos;s Book
+              Pre-Order False Positive
             </a>
           </div>
 

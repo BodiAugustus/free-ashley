@@ -85,13 +85,13 @@ const Section5 = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.samuitimes.com/police-accused-of-corruption-extortion-and-kidnapping/"
+                    href="https://fulcrum.sg/thailands-police-in-2025-politicised-reshuffle-and-endemic-corruption/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:underline text-red-500"
                   >
                     5) Police accused of corruption, extortion, and kidnapping
-                    (Koh Samui area, Sept 2020)
+                    Koh Samui, 2025
                   </a>
                 </li>
               </ul>
