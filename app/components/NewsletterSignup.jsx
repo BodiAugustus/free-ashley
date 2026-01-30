@@ -129,7 +129,7 @@ export default function NewsletterSignup() {
                     {/* Submit Button */}
                     <button
                       type="submit"
-                      className="w-full py-4 bg-red-600 hover:bg-red-500 text-white font-bold text-lg rounded-lg shadow-lg transition-all duration-200 transform hover:scale-105 active:scale-100"
+                      className="w-full py-4 bg-red-600 hover:bg-red-500 text-white font-bold text-lg rounded-lg shadow-lg transition-all duration-200 transform hover:scale-105 active:scale-100 cursor-pointer"
                     >
                       Subscribe & Stand with Ashley
                     </button>

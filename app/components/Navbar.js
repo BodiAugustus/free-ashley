@@ -11,7 +11,7 @@ export default function Navbar() {
         <ul className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-6">
           <li>
             <a
-              href="/www.tristannettles.com"
+              href="www.tristannettles.com"
               className="hover:text-[var(--color-accent)] transition-colors"
               target="_blank"
             >
@@ -20,7 +20,7 @@ export default function Navbar() {
           </li>
           <li>
             <a
-              href="/https://www.backabuddy.co.za/campaign/ashley-oosthuizens-fight-for-freedom"
+              href="https://www.backabuddy.co.za/campaign/ashley-oosthuizens-fight-for-freedom"
               className="hover:text-[var(--color-accent)] transition-colors"
               target="_blank"
             >
