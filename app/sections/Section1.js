@@ -2,9 +2,9 @@
 import Image from "next/image";
 const Section1 = () => {
   return (
-    <main className="max-h-screen bg-[var(--color-primary)] text-white font-[var(--font-serif)]">
+    <main className="min-h-screen bg-[var(--color-primary)] text-white font-[var(--font-serif)]">
       <header className="p-4 text-center">
-        <h1 className="text-4xl font-bold">
+        <h1 className="text-4xl font-bold pt-8">
           Ashley Oosthuizen has spent more than{" "}
           <span className="text-red-400">five years</span> in Thai prison.
         </h1>
