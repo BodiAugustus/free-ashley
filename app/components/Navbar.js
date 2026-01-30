@@ -11,7 +11,7 @@ export default function Navbar() {
         <ul className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-6">
           <li>
             <a
-              href="www.tristannettles.com"
+              href="https://www.tristannettles.com"
               className="hover:text-[var(--color-accent)] transition-colors"
               target="_blank"
             >
